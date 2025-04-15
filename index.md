@@ -9,3 +9,8 @@ Changed empty index file to show different kinds of headers.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+#### Introducing task lists
+
+- [ ] Number 1
+- [ ] Number 2
+- [ ] Number 3
